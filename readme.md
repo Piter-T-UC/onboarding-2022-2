@@ -26,3 +26,5 @@ Agrega tu usuario de GitHub o nombre aquí abajo 👇
 - [@fernandosmither](https://github.com/fernandosmither)
 - [@lnatero](https://github.com/lnatero)
 - [@EnzoMorata](https://github.com/EnzoMorata)
+- [@Piter-T-UC (https://github.com/Piter-T-UC)
+- 
